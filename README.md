@@ -72,4 +72,6 @@ Evaluation results will be reported only after the test data and evaluation proc
 
 ## 10. Project Status
 
-Step 1 is in progress. The problem definition, environment model, evaluation plan, and risks must be reviewed alongside the environment-check notebook before Step 1 is considered complete.
+The initial project setup is complete. The problem definition, PEAS description, environment properties, evaluation plan, and risk mitigations are documented in this README. The virtual environment and required packages have been verified using `notebooks/check_env.ipynb`.
+
+Step 1 is ready for final review. The next step is to select and document suitable book and movie data sources, verify their usage conditions, and prepare the initial data-loading and cleaning workflow.
